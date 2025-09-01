@@ -8,8 +8,8 @@ local Paths = {
     [75159825516372] = function() -- Noob Mayhem
          return Workspace:find_first_child("Bots")
     end,
-    [4919010625] = function() -- Criminal Tycoon
-    return Workspace:find_first_child("AIs")
+    [75159825516372] = function() -- Criminal Tycoon
+    return Workspace:find_first_child("Dummy")
     end,
     [962862716] = function() -- AimH4X
         return Workspace:find_first_child("CurrentBots")
