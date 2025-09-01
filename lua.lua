@@ -5,10 +5,10 @@ local GameID = tonumber(get_gameid())
 local Self = Players.local_player
 
 local Paths = {
-    [75159825516372] = function() -- Noob Mayhem
+    [7406797672] = function() -- Noob Mayhem
          return Workspace:find_first_child("Bots")
     end,
-    [75159825516372] = function() -- Criminal Tycoon
+    [7406797672] = function() -- Criminal Tycoon
     return Workspace:find_first_child("Dummy")
     end,
     [962862716] = function() -- AimH4X
