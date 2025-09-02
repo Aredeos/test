@@ -8,9 +8,6 @@ local Paths = {
     [7406797672] = function() -- Noob Mayhem
          return Workspace:find_first_child("Bots")
     end,
-    [7406797672] = function() -- Criminal Tycoon
-    return Workspace:find_first_child("Dummy")
-    end,
     [962862716] = function() -- AimH4X
         return Workspace:find_first_child("CurrentBots")
     end,
